@@ -1,2 +1,1 @@
-# CloudTestnetToolkitChain
-Advanced CloudTestnetToolkitChain project
+.
